@@ -4,3 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact)]()
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact)]()
