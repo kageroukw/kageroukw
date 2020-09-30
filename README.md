@@ -6,6 +6,8 @@
 
 ---
 
+<div align="center" class="h2" style="text-weight: bold;">Coding stats</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight&count_private=true" height="135px;" />
   
