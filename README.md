@@ -9,9 +9,8 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=kageroukw&count_private=true&theme=material-palenight"><img src="https://github-readme-stats.vercel.app/api?username=kageroukw&count_private=true&theme=material-palenight" height="250px;">
-  </a>
     <a href="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact">
       <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact" height="250px;" />
-    </a>
+    </a></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" height="250px;"></a>
 </p>
