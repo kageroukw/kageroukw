@@ -8,7 +8,7 @@
 ### Coding stats
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=kageroukw&count_private=true&theme=material-palenight"><img src="https://github-readme-stats.vercel.app/api?username=kageroukw&count_private=true&theme=material-palenight" height="100px;" />
-  <a href="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact" height="100px;" /></a></a><a>　</a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" width="100px;" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=kageroukw&count_private=true&theme=material-palenight"><img src="https://github-readme-stats.vercel.app/api?username=kageroukw&count_private=true&theme=material-palenight" height="150px;" />
+  <a href="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact" height="150px;" /></a></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" width="150px;" /></a>
 </p>
