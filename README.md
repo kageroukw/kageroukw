@@ -7,7 +7,7 @@
 <div align="center">
   <h2>Coding stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight" height="150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight&count_private=true" height="150px;" />
   
   <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact" height="150px;" />
 </div>
