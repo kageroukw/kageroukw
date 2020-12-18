@@ -18,11 +18,7 @@
 </div>
 <!-- About Me -->
 
-<br />
-
-<!-- Spotify -->
-## <div align="center">Listening to</div>
-
+<!-- Spotify -->=
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
 </div>
