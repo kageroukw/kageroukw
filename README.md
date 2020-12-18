@@ -24,52 +24,61 @@
 ## <div align="center">My PC</div>
 
 <div align="center">
+    <style type="text/css">
+  .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    overflow:hidden;padding:10px 5px;word-break:normal;}
+  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  .tg .tg-o1jl{background-color:#fdbbff;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-umm4{background-color:#fed8ff;border-color:inherit;text-align:left;vertical-align:top}
+  </style>
   <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky">🖥️ Monitor</th>
-    <th class="tg-0pky">⌨️ Keyboard</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">2x ACER K242HL</td>
-    <td class="tg-0pky">HyperX Alloy Red Custom Switches</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">🖱️ Mouse</td>
-    <td class="tg-0pky">💿 Storage</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Some off-brand RGB mouse</td>
-    <td class="tg-0pky">400 GB HDD with SSD partition</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">CPU</td>
-    <td class="tg-0pky">GPU</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</td>
-    <td class="tg-0pky">GTX GeForce 1070 @ 6 GB VRAM</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">RAM</td>
-    <td class="tg-0pky">OS</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">3x 8 GB RAM (24 GB)</td>
-    <td class="tg-0pky">Windows 10 Home x64</td>
-  </tr>
-</tbody>
-</table>
+  <thead>
+    <tr>
+      <th class="tg-o1jl"></th>
+      <th class="tg-o1jl">🖥️ Monitor</th>
+      <th class="tg-o1jl">⌨️ Keyboard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-umm4"></td>
+      <td class="tg-umm4">2x ACER K242HL</td>
+      <td class="tg-umm4">HyperX Alloy Red Custom Switches</td>
+    </tr>
+    <tr>
+      <td class="tg-o1jl"></td>
+      <td class="tg-o1jl">🖱️ Mouse</td>
+      <td class="tg-o1jl">💿 Storage</td>
+    </tr>
+    <tr>
+      <td class="tg-umm4"></td>
+      <td class="tg-umm4">Some off-brand RGB mouse</td>
+      <td class="tg-umm4">400 GB HDD with SSD partition</td>
+    </tr>
+    <tr>
+      <td class="tg-o1jl"></td>
+      <td class="tg-o1jl">CPU</td>
+      <td class="tg-o1jl">GPU</td>
+    </tr>
+    <tr>
+      <td class="tg-umm4"></td>
+      <td class="tg-umm4">Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</td>
+      <td class="tg-umm4">GTX GeForce 1070 @ 6 GB VRAM</td>
+    </tr>
+    <tr>
+      <td class="tg-o1jl"></td>
+      <td class="tg-o1jl">RAM</td>
+      <td class="tg-o1jl">OS</td>
+    </tr>
+    <tr>
+      <td class="tg-umm4"></td>
+      <td class="tg-umm4">3x 8 GB RAM (24 GB)</td>
+      <td class="tg-umm4">Windows 10 Home x64</td>
+    </tr>
+  </tbody>
+  </table>
   <p>🖥️ Monitor: 2x <a href="https://www.acer.com/ac/ja/JP/content/model/UM.FW2SJ.A01">ACER K242HL</a></p>
   <p>⌨️ Keyboard: HyperX Alloy Red Custom Switches</p>
   <p>🖱️ Mouse: Some off-brand RGB mouse</p>
