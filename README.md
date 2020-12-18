@@ -4,7 +4,7 @@
 ## <div align="center">About me</div>
 
 <div align="center">
-  <p>I'm a nerd-ish girl who is coding for fun with hopes of getting a good job later on in life.</p>
+  <p>I'm a nerd-ish girl in love with C# who is coding for fun with hopes of getting a good job later on in life.</p>
   
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects</li>
@@ -17,17 +17,6 @@
   <p><strike>I don't know what else to write.</strike></p>
 </div>
 <!-- About Me -->
-
-<br />
-
-<!-- Tech stuff -->
-## <div align="center">Tech stuff..</div>
-
-<div align="center">
-  <p>I love C# ❤️</p>
-  <p>Interested in C++ and TypeScript</p>
-</div>
-<!-- Tech stuff -->
 
 <br />
 
