@@ -2,9 +2,9 @@
 
 ### <div align="center">About me</div>
 
-I'm a nerdish girl who is coding for fun with hopes of getting a good job later on in life.
-
 <div align="center">
+  <p>I'm a nerdish girl who is coding for fun with hopes of getting a good job later on in life.</p>
+  
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects.</li>
     <li>🎥 I like watching movies and TV shows.</li>
