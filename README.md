@@ -78,9 +78,9 @@
 <!-- Spotify -->
 ## <div align="center">Listening to</div>
 
-<center>
+<div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
-</center>
+</div>
 <!-- Spotify -->
 
 <div align="center">
@@ -95,4 +95,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" height="150px;" />
 </div>
 <br />
-<div align="center"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4&style=flat-square&label=Profile+Visits" /></div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4&style=flat-square&label=Profile+Visits" />
+  
+  <center>
+    <table>
+      <tr>
+          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight&count_private=true" /></td>
+          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact"/></td>
+          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact"/></td>
+      </tr>   
+    </table>
+  </center>
+</div>
