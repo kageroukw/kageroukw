@@ -2,6 +2,7 @@
 
 ### <div align="center">About me</div>
 
+I
 <div align="center">
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects.</li>
