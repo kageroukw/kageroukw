@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>Hi, I'm kwo!</b></h2><div align="right">![](https://komarev.com/ghpvc/?username=your-github-username&color=green)ff69b4</div>
+  <h2><b>Hi, I'm kwo!</b></h2><div align="right"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
     
   <br />
   
