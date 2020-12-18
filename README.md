@@ -3,7 +3,7 @@
 ### <div align="center">About me</div>
 
 <div align="center">
-  <ul>
+  <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects.</li>
     <li>🎥 I like watching movies and TV shows.</li>
     <li>🎧 I like listening to music.</li>
