@@ -1,4 +1,4 @@
-### Hi, I'm kwo! <div align="right"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
+### <div align="center">Hi, I'm kwo!</div>
 <div align="center">
   
   <h2>Listening to</h2>
@@ -17,3 +17,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" height="150px;" />
 </div>
+<div align="left"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
