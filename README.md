@@ -1,4 +1,4 @@
-## <div align="center">Hi, I'm kwo 🌸</div>
+# <div align="center">Hi, I'm kwo 🌸</div>
 
 ### <div align="center">About me</div>
 
@@ -7,7 +7,7 @@
   
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects</li>
-    <li>🎥 I like watching movies and TV shows</li>
+    <li>🎥 I like watching movies and TV shows (Fav anime: Attack on Titan)</li>
     <li>🎧 I like listening to music (Fav genres: C/J/Pop, Rock)</li>
     <li>🎮 I like playing games here and there (Fav genres: MMORPG, Adventure)</li>
   </ul>  
@@ -18,6 +18,10 @@
 ---
 
 ### <div align="center">Code stuff..</div>
+
+<div align="center">
+  <p>I mainly code in C#</p> <img src="https://cdn.discordapp.com/emojis/618464552153120792.png?v=1" style="width: 10px; height: 10px;" />
+</div>
 
 ---
 
