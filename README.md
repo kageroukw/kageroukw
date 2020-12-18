@@ -101,9 +101,9 @@
   <center>
     <table>
       <tr>
-          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight&count_private=true" /></td>
-          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact"/></td>
-          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact"/></td>
+          <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight&count_private=true" /></td>
+          <td><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact"/></td>
+          <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact"/></td>
       </tr>   
     </table>
   </center>
