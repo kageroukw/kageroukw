@@ -4,7 +4,7 @@
 ## <div align="center">About me</div>
 
 <div align="center">
-  <p>I'm a nerd-ish girl in love with C# who is coding for fun with hopes of getting a good job later on in life.</p>
+  <p>I'm a nerd-ish girl, in love with C#, who is coding for fun with hopes of getting a good job later on in life.</p>
   
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects</li>
@@ -24,6 +24,52 @@
 ## <div align="center">My PC</div>
 
 <div align="center">
+  <table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">🖥️ Monitor</th>
+    <th class="tg-0pky">⌨️ Keyboard</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">2x ACER K242HL</td>
+    <td class="tg-0pky">HyperX Alloy Red Custom Switches</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">🖱️ Mouse</td>
+    <td class="tg-0pky">💿 Storage</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Some off-brand RGB mouse</td>
+    <td class="tg-0pky">400 GB HDD with SSD partition</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">CPU</td>
+    <td class="tg-0pky">GPU</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</td>
+    <td class="tg-0pky">GTX GeForce 1070 @ 6 GB VRAM</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">RAM</td>
+    <td class="tg-0pky">OS</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">3x 8 GB RAM (24 GB)</td>
+    <td class="tg-0pky">Windows 10 Home x64</td>
+  </tr>
+</tbody>
+</table>
   <p>🖥️ Monitor: 2x <a href="https://www.acer.com/ac/ja/JP/content/model/UM.FW2SJ.A01">ACER K242HL</a></p>
   <p>⌨️ Keyboard: HyperX Alloy Red Custom Switches</p>
   <p>🖱️ Mouse: Some off-brand RGB mouse</p>
