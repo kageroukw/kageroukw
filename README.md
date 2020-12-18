@@ -17,10 +17,11 @@
 
 ---
 
-### <div align="center">Code stuff..</div>
+### <div align="center">Tech stuff..</div>
 
 <div align="center">
-  <p>I mainly code in C# <div align="right"><img src="https://cdn.discordapp.com/emojis/618464552153120792.png?v=1" style="width: 2px; height: 2px;" /></div></p>
+  <p>I mainly code in C# ❤️</p>
+  <p></p>
 </div>
 
 ---
