@@ -1,5 +1,6 @@
 # <div align="center">Hi, I'm kwo 🌸</div>
 
+<!-- About Me -->
 ## <div align="center">About me</div>
 
 <div align="center">
@@ -15,23 +16,44 @@
   
   <p><strike>I don't know what else to write.</strike></p>
 </div>
+<!-- About Me -->
 
 <br />
 
+<!-- Tech stuff -->
 ## <div align="center">Tech stuff..</div>
 
 <div align="center">
   <p>I love C# ❤️</p>
   <p>Interested in C++ and TypeScript</p>
 </div>
+<!-- Tech stuff -->
 
 <br />
 
+<!-- PC -->
+## <div align="center">My PC</div>
+
+<div align="center">
+  <p>Monitor: 2x <a href="https://www.acer.com/ac/ja/JP/content/model/UM.FW2SJ.A01">ACER K242HL</a></p>
+  <p>Keyboard: HyperX Alloy Red Custom Switches</p>
+  <p>Mouse: Some off-brand Deltaco mouse or watevs.</p>
+  <p>CPU: Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</p>
+  <p>GPU: GTX GeForce 1070</p>
+  <p>RAM: 3x 8 GB RAM (24 GB)</p>
+  <p>OS: Windows 10 Home x64</p>
+</div>
+<!-- PC -->
+
+<br />
+
+<!-- Spotify -->
 ## <div align="center">Listening to</div>
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
 </div>
+<!-- Spotify -->
 
 <div align="center">
   <h2>Coding stats</h2>
