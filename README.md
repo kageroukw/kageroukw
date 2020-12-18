@@ -10,6 +10,7 @@
     <li>🎥 I like watching movies and TV shows (Fav anime: Attack on Titan)</li>
     <li>🎧 I like listening to music (Fav genres: C/J/Pop, Rock)</li>
     <li>🎮 I like playing games here and there (Fav genres: MMORPG, Adventure)</li>
+    <li>🎮 Recently got interested in making games with Unity and Unreal Engine</li>
   </ul>  
   
   <p><strike>I don't know what else to write.</strike></p>
