@@ -1,4 +1,8 @@
 <div align="center">
+  ## Hi, I'm kwo! <div align="right">![](https://komarev.com/ghpvc/?username=your-github-username&color=green)ff69b4</div>
+    
+  <br />
+  
   <h2>Listening to</h2>
   
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
