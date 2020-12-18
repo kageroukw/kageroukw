@@ -20,7 +20,7 @@
 
 <!-- Spotify -->
 <div align="center">
-  <img src="https://kageroukw.vercel.app/api/spotify" href="https://open.spotify.com/user/948gaxqqryetkwyhbb8arr67m" />
+  <img src="https://novatorem.kageroukw.vercel.app/api/spotify" href="https://open.spotify.com/user/948gaxqqryetkwyhbb8arr67m" />
 </div>
 <!-- Spotify -->
 
