@@ -2,7 +2,7 @@
 
 ### <div align="center">About me</div>
 
-- <div align="center">⚙️ I try to make cool stuff.</div>
+<div align="center">- ⚙️ I try to make cool stuff.</div>
 - 🎥 I like watching movies and TV shows.
 - 🎧 I like listening to music.
 - 🎮 I like playing games here and there.
