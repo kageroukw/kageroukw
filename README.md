@@ -70,14 +70,6 @@
     </tr>
   </tbody>
   </table>
-  <p>🖥️ Monitor: 2x <a href="https://www.acer.com/ac/ja/JP/content/model/UM.FW2SJ.A01">ACER K242HL</a></p>
-  <p>⌨️ Keyboard: HyperX Alloy Red Custom Switches</p>
-  <p>🖱️ Mouse: Some off-brand RGB mouse</p>
-  <p>CPU: Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</p>
-  <p>GPU: GTX GeForce 1070</p>
-  <p>RAM: 3x 8 GB RAM (24 GB)</p>
-  <p>💿 Storage: 400 GB HDD with SSD partition</p>
-  <p>OS: Windows 10 Home x64</p>
 </div>
 <!-- PC -->
 
