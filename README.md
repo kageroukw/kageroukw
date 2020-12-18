@@ -1,7 +1,5 @@
+<h2><b>Hi, I'm kwo!</b></h2><div align="right"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
 <div align="center">
-  <h2><b>Hi, I'm kwo!</b></h2><div align="right"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
-    
-  <br />
   
   <h2>Listening to</h2>
   
