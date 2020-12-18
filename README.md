@@ -1,4 +1,12 @@
-## <div align="center">Hi, I'm kwo!</div>
+## <div align="center">Hi, I'm kwo! 🌸</div>
+
+### About me
+
+- ⚙️ I try to make cool stuff.
+- 🎥 I like watching movies and TV shows.
+- 🎧 I like listening to music.
+- 🎮 I like playing games here and there.
+
 
 ### <div align="center">Listening to</div>
 
