@@ -83,20 +83,9 @@
 </div>
 <!-- Spotify -->
 
-<div align="center">
-  <h2>Coding stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=kageroukw&theme=material-palenight&count_private=true" height="150px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=minato&theme=material-palenight&layout=compact" height="150px;" />
-</div>
+## <div align="center">GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" height="150px;" />
-</div>
-<br />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4&style=flat-square&label=Profile+Visits" />
   
   <center>
     <table>
@@ -107,4 +96,8 @@
       </tr>   
     </table>
   </center>
+</div>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4&style=flat-square&label=Profile+Visits" />
 </div>
