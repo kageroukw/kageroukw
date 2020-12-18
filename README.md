@@ -2,11 +2,14 @@
 
 ### <div align="center">About me</div>
 
-<div align="center">- ⚙️ I try to make cool stuff.</div>
-- 🎥 I like watching movies and TV shows.
-- 🎧 I like listening to music.
-- 🎮 I like playing games here and there.
-
+<div align="center">
+  <ul>
+    <li>⚙️ I try to make cool stuff but I mostly never finish my projects.</li>
+    <li>🎥 I like watching movies and TV shows.</li>
+    <li>🎧 I like listening to music.</li>
+    <li>🎮 I like playing games here and there.</li>
+  </ul>  
+</div>
 
 ### <div align="center">Listening to</div>
 
