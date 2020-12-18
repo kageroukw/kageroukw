@@ -4,7 +4,6 @@
 
 <div align="center">
   <p>I'm a nerd-ish girl who is coding for fun with hopes of getting a good job later on in life.</p>
-  <p><strike>I don't know what else to write.</strike></p>
   
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects</li>
@@ -12,6 +11,8 @@
     <li>🎧 I like listening to music (Fav genres: C/J/Pop, Rock)</li>
     <li>🎮 I like playing games here and there (Fav genres: MMORPG, Adventure)</li>
   </ul>  
+  
+  <p><strike>I don't know what else to write.</strike></p>
 </div>
 
 ### <div align="center">Listening to</div>
