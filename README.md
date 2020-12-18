@@ -78,9 +78,9 @@
 <!-- Spotify -->
 ## <div align="center">Listening to</div>
 
-<div align="center">
+<center>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
-</div>
+</center>
 <!-- Spotify -->
 
 <div align="center">
