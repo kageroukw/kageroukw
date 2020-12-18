@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm kwo 🌸</div>
 
-### <div align="center">About me</div>
+## <div align="center">About me</div>
 
 <div align="center">
   <p>I'm a nerd-ish girl who is coding for fun with hopes of getting a good job later on in life.</p>
@@ -15,18 +15,18 @@
   <p><strike>I don't know what else to write.</strike></p>
 </div>
 
----
+<br />
 
-### <div align="center">Tech stuff..</div>
+## <div align="center">Tech stuff..</div>
 
 <div align="center">
   <p>I mainly code in C# ❤️</p>
   <p></p>
 </div>
 
----
+<br />
 
-### <div align="center">Listening to</div>
+## <div align="center">Listening to</div>
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
@@ -44,4 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" height="150px;" />
 </div>
 <br />
-<div align="center"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4&style=flat-square&label=Profile+Visits" /></div>
