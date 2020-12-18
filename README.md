@@ -2,7 +2,8 @@
 
 ### <div align="center">About me</div>
 
-I
+I'm a nerdish girl who is coding for fun with hopes of getting a good job later on in life.
+
 <div align="center">
   <ul style="display: table;">
     <li>⚙️ I try to make cool stuff but I mostly never finish my projects.</li>
