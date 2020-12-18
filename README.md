@@ -17,4 +17,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kageroukw&theme=material-palenight&layout=compact" height="150px;" />
 </div>
-<div align="left"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=kageroukw&color=ff69b4" /></div>
