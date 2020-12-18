@@ -20,6 +20,16 @@
 
 <br />
 
+<!-- Spotify -->
+## <div align="center">Listening to</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
+</div>
+<!-- Spotify -->
+
+<br />
+
 <!-- PC -->
 ## <div align="center">My PC</div>
 
@@ -74,14 +84,6 @@
 <!-- PC -->
 
 <br />
-
-<!-- Spotify -->
-## <div align="center">Listening to</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=948gaxqqryetkwyhbb8arr67m&cover_image=false" />
-</div>
-<!-- Spotify -->
 
 ## <div align="center">GitHub Stats</div>
 
