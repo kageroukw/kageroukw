@@ -15,6 +15,12 @@
   <p><strike>I don't know what else to write.</strike></p>
 </div>
 
+---
+
+### <div align="center">Code stuff..</div>
+
+---
+
 ### <div align="center">Listening to</div>
 
 <div align="center">
