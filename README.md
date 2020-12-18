@@ -20,8 +20,8 @@
 ## <div align="center">Tech stuff..</div>
 
 <div align="center">
-  <p>I mainly code in C# ❤️</p>
-  <p></p>
+  <p>I love C# ❤️</p>
+  <p>Interested in C++ and TypeScript</p>
 </div>
 
 <br />
