@@ -6,10 +6,10 @@
   <p>I'm a nerdish girl who is coding for fun with hopes of getting a good job later on in life.</p>
   
   <ul style="display: table;">
-    <li>⚙️ I try to make cool stuff but I mostly never finish my projects.</li>
-    <li>🎥 I like watching movies and TV shows.</li>
-    <li>🎧 I like listening to music.</li>
-    <li>🎮 I like playing games here and there.</li>
+    <li>⚙️ I try to make cool stuff but I mostly never finish my projects. qwq</li>
+    <li>🎥 I like watching movies and TV shows. (Fav TV show so far: Sherlock)</li>
+    <li>🎧 I like listening to music. (Fav genres: C/J/Pop, Rock)</li>
+    <li>🎮 I like playing games here and there. (Fav genres: MMORPG, Adventure)</li>
   </ul>  
 </div>
 
