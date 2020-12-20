@@ -57,7 +57,7 @@
     <tr>
       <td class="tg-o1jl"></td>
       <td align="center" class="tg-o1jl"><b>CPU</b></td>
-      <td align="center" class="tg-o1jl"><b>GPU</b>/td>
+      <td align="center" class="tg-o1jl"><b>GPU</b></td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
