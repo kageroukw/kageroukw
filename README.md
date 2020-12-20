@@ -34,8 +34,8 @@
   <thead>
     <tr>
       <th class="tg-o1jl"></th>
-      <th align="center" class="tg-o1jl">🖥️ Monitor</th>
-      <th align="center" class="tg-o1jl">⌨️ Keyboard</th>
+      <th align="center" class="tg-o1jl"><b>🖥️ Monitor</b></th>
+      <th align="center" class="tg-o1jl"><b>⌨️ Keyboard</b></th>
     </tr>
   </thead>
   <tbody>
@@ -46,8 +46,8 @@
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
-      <td align="center" class="tg-o1jl">🖱️ Mouse</td>
-      <td align="center" class="tg-o1jl">💿 Storage</td>
+      <td align="center" class="tg-o1jl"><b>🖱️ Mouse</b></td>
+      <td align="center" class="tg-o1jl"><b>💿 Storage</b></td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
@@ -56,8 +56,8 @@
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
-      <td align="center" class="tg-o1jl">CPU</td>
-      <td align="center" class="tg-o1jl">GPU</td>
+      <td align="center" class="tg-o1jl"><b>CPU</b></td>
+      <td align="center" class="tg-o1jl"><b>GPU</b>/td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
@@ -66,8 +66,8 @@
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
-      <td align="center" class="tg-o1jl">RAM</td>
-      <td align="center" class="tg-o1jl">OS</td>
+      <td align="center" class="tg-o1jl"><b>RAM</b></td>
+      <td align="center" class="tg-o1jl"><b>OS</b></td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
