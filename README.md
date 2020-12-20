@@ -42,7 +42,7 @@
     <tr>
       <td class="tg-umm4"></td>
       <td class="tg-umm4">2 x ACER K242HL 24"</td>
-      <td class="tg-umm4">HyperX Alloy FPS Custom Red Switches</td>
+      <td class="tg-umm4">HyperX Alloy FPS Red Switches + Sakura Key Caps</td>
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
