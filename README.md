@@ -31,48 +31,46 @@
 
 <div align="center">
   <table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-o1jl"></th>
-      <th align="center" class="tg-o1jl"><b>🖥️ Monitor</b></th>
-      <th align="center" class="tg-o1jl"><b>⌨️ Keyboard</b></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <th class="tg-o1jl"></th>
+      <th align="left" class="tg-o1jl"><b>🖥️ Monitor</b></th>
+      <th align="left" class="tg-o1jl"><b>⌨️ Keyboard</b></th>
+    </tr>
+    <tr>
       <td class="tg-umm4"></td>
-      <td class="tg-umm4">2 x ACER K242HL 24"</td>
-      <td class="tg-umm4">HyperX Alloy FPS Red Switches + Sakura Key Caps</td>
+      <td align="center" class="tg-umm4">2 x ACER K242HL 24"</td>
+      <td align="center" class="tg-umm4">HyperX Alloy FPS Red Switches + Sakura Key Caps</td>
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
-      <td align="center" class="tg-o1jl"><b>🖱️ Mouse</b></td>
-      <td align="center" class="tg-o1jl"><b>💿 Storage</b></td>
+      <td align="left" class="tg-o1jl"><b>🖱️ Mouse</b></td>
+      <td align="left" class="tg-o1jl"><b>💿 Storage</b></td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
-      <td class="tg-umm4">Some off-brand RGB mouse</td>
-      <td class="tg-umm4">400 GB HDD with SSD partition</td>
+      <td align="center" class="tg-umm4">Some off-brand RGB mouse</td>
+      <td align="center" class="tg-umm4">400 GB HDD with SSD partition</td>
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
-      <td align="center" class="tg-o1jl"><b>CPU</b></td>
-      <td align="center" class="tg-o1jl"><b>GPU</b></td>
+      <td align="left" class="tg-o1jl"><b>CPU</b></td>
+      <td align="left" class="tg-o1jl"><b>GPU</b></td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
-      <td class="tg-umm4">Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</td>
-      <td class="tg-umm4">GTX GeForce 1070 @ 6 GB VRAM</td>
+      <td align="center" class="tg-umm4">Intel i5-9400F CPU @ 2.9 GHz OC @ 4 GHz</td>
+      <td align="center" class="tg-umm4">GTX GeForce 1070 @ 6 GB VRAM</td>
     </tr>
     <tr>
       <td class="tg-o1jl"></td>
-      <td align="center" class="tg-o1jl"><b>RAM</b></td>
-      <td align="center" class="tg-o1jl"><b>OS</b></td>
+      <td align="left" class="tg-o1jl"><b>RAM</b></td>
+      <td align="left" class="tg-o1jl"><b>OS</b></td>
     </tr>
     <tr>
       <td class="tg-umm4"></td>
-      <td class="tg-umm4">3x 8 GB RAM (24 GB)</td>
-      <td class="tg-umm4">Windows 10 Home x64</td>
+      <td align="center" class="tg-umm4">3x 8 GB RAM (24 GB)</td>
+      <td align="center" class="tg-umm4">Windows 10 Home x64</td>
     </tr>
   </tbody>
   </table>
